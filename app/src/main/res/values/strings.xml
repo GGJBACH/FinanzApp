@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FinanzApp - Andrés Rosales</string>
+    <string name="nav_welcome">Inicio</string>
+    <string name="nav_expenses">Gastos</string>
+    <string name="nav_reminders">Recordatorios</string>
+    <string name="nav_theory">Teoría Android</string>
+
+    <!-- Login Strings -->
+    <string name="title_login">FinanzApp</string>
+    <string name="subtitle_login">Control de Gastos Estudiantil</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="login_hint_credentials">Credenciales por defecto:\nUsuario: estudiante | Clave: 123456</string>
+    <string name="err_empty_fields">Por favor complete todos los campos</string>
+    <string name="err_invalid_credentials">Usuario o contraseña incorrectos</string>
+
+    <!-- Welcome Strings -->
+    <string name="welcome_greeting">¡Bienvenido de nuevo!</string>
+    <string name="student_name_label">Andrés Rosales</string>
+    <string name="student_details_label">Estudiante de Ingeniería | 22 años</string>
+    <string name="student_id_label">Código ID: 2024-10582</string>
+
+    <!-- Expenses Strings -->
+    <string name="title_expenses">Registro de Gastos</string>
+    <string name="total_expenses_label">Total Gastado</string>
+    <string name="btn_add_expense">Nuevo Gasto</string>
+
+    <!-- Reminders Strings -->
+    <string name="title_reminders">Gastos Fijos y Recordatorios</string>
+    <string name="subtitle_fixed_reminders">Gastos Fijos Programados</string>
+    <string name="subtitle_custom_reminders">Recordatorios Extras</string>
+    <string name="btn_add_reminder">Agregar Recordatorio</string>
+
+    <!-- Theory Strings -->
+    <string name="title_theory">Conceptos Teóricos Android</string>
+</resources>
